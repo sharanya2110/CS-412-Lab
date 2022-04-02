@@ -1,4 +1,4 @@
-# CS-412-Lab
+# CS-412-Lab - Introduction to Machine Learning
 Lab Jupyter notebooks for the course CS 412
 
 ## Lab1
