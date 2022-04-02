@@ -1,5 +1,5 @@
-# CS-412-Lab - Introduction to Machine Learning
-Lab Jupyter notebooks for the course CS 412
+# CS-412-Lab 
+Lab Jupyter notebooks for the course CS 412 - Introduction to Machine Learning
 
 ## Lab1
 Problem 1: Implementation of the k-Nearest Neighbours (kNN) classifier [from scratch] and Cross-Validation </br>
